@@ -24,9 +24,9 @@ navbar-links:
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "RECON - R Epidemics Consortium"
-  email: "thibautjombart@gmail.com"
-  github: reconhub/reconhub.github.io
+  name: "AIMS"
+  email: "whlee@khu.ac.kr"
+  github: wonhee-lee
   facebook: yourname  # eg. daattali
   twitter: yourname   # eg. daattali
 
@@ -46,7 +46,7 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "reconhub-github-io"
+disqus: ""
 
 # Google Analytics ID
 google_analytics: "UA-83713279-1"
